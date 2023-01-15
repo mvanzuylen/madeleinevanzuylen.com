@@ -54,9 +54,27 @@ Technical Skills
 Coursework
 ======
 
-Programming: Intensive Foundations of CS (Python), Object-Oriented Design (Java), Data Str, Algo & App in Cmp Sys (C), Algorithms (Java), Database Management Sys (R, SQL), Machine Learning (Python), Deep Learning, NLP, Web Dev, Parallel Data Processing
+* Programming: 
+  * Intensive Foundations of CS (Python)
+  * Object-Oriented Design (Java)
+  * Data Str, Algo & App in Cmp Sys (C)
+  * Algorithms (Java)
+  * Database Management Sys (R, SQL)
+  * Machine Learning (Python)
+  * Deep Learning
+  * NLP
+  * Web Dev
+  * Parallel Data Processing
 
-Math: Discrete Structures, Calc III, Linear Algebra, Differential Equations, Intro to Probability, Numerical Analysis, Stat Methods & Data Analysis, Mathematical/Comp Modeling
+* Math: 
+  * Discrete Structures
+  * Calc III
+  * Linear Algebra
+  * Differential Equations
+  * Intro to Probability
+  * Numerical Analysis
+  * Stat Methods & Data Analysis
+  * Mathematical/Comp Modeling
 
 Other
 ======
