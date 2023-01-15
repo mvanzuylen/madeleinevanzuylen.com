@@ -8,7 +8,7 @@ author_profile: true
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink:
+permalink: /publications/
 excerpt: ''
 date: 2021-11-23
 venue: 'EMNLP 2021'
