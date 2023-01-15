@@ -124,7 +124,7 @@ Volunteer Activities
 Publications
 ======
   
-  * ### p://madeleinevanzuylen.com/files/MS2_A_Dataset_for_Multi-Document_Summarization_of_Medical_Studies.pdf)
+* [MSˆ2: Multi-Document Summarization of Medical Studies](http://madeleinevanzuylen.com/files/MS2_A_Dataset_for_Multi-Document_Summarization_of_Medical_Studies.pdf)
   * EMNLP, 2021
 
 * [Extracting a Knowledge Base of Mechanisms from COVID-19 Papers](https://madeleinevanzuylen.com/files/Extracting_a_Knowledge_Base_of_Mechanisms_from_COVID-19_Papers.pdf)
