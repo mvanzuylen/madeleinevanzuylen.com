@@ -7,6 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Title
-======
-There is where I write things about me
+
+Welcome! My name is Mady, and I'm a Master's student in CS at Northeastern University based out of Seattle, WA.
