@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV PDF](http://madeleinevanzuylen.github.io/files/Nov_2022_Madeleine_van_Zuylen_CV.pdf)
 
 
 Education
