@@ -38,6 +38,6 @@ author_profile: true
 * ### [SciA11y: Converting Scientific Papers to Accessible HTML](https://madeleinevanuylen.com/files/SciA11y_Converting_Scientific_Papers_to_Accessible_HTML.pdf)
   * ASSETS 2021 Posters and Demonstrations, Artifact Award 1st Place
 
-* ### [Apoptosis-related Genes Control Autophagy and Influence DENV-2 Infection in the Mosquito Vector, Aedes Aegypti] (https://madeleinevanuylen.com/files/Apoptosis-related_genes_control_autophagy_and_influence_DENV-2_infection_in_the_mosquito_vector_Aedes_aegypti_PMC.pdf)
+* ### [Apoptosis-related Genes Control Autophagy and Influence DENV-2 Infection in the Mosquito Vector, Aedes Aegypti](https://madeleinevanuylen.com/files/Apoptosis-related_genes_control_autophagy_and_influence_DENV-2_infection_in_the_mosquito_vector_Aedes_aegypti_PMC.pdf)
   * Insect Biochemistry & Molecular Biology, September 2016
 
