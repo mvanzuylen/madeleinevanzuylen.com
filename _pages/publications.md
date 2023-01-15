@@ -13,6 +13,9 @@ author_profile: true
 
 * ### [Improving the accessibility of scientific documents: Current state, user needs, and a system solution to enhance scientific PDF accessibility for blind and low vision users](https://madeleinevanuylen.com/files/Improving_the_accessibility_of_scientific_documents.pdf)
   * ArXiv, 2021
+
+* ### [SciA11y: Converting Scientific Papers to Accessible HTML](https://madeleinevanuylen.com/files/SciA11y_Converting_Scientific_Papers_to_Accessible_HTML.pdf)
+  * ASSETS 2021 Posters and Demonstrations, Artifact Award 1st Place
   
 * ### [MedICaT: A Dataset of Medical Images, Captions, and Textual References ](https://madeleinevanuylen.com/files/MedICaT_A_Dataset_of_Medical_Images_Captions_and_Textual_References.pdf)
   * EMNLP, 2020
@@ -34,9 +37,6 @@ author_profile: true
 
 * ### [A Dataset of Peer Reviews (PeerReaD): Collection, Insights and NLP Applications](https://madeleinevanuylen.com/files/A_Dataset_of_Peer_Reviews_(PeerRead)_Collection_Insights_and_NLP_Applications.pdf)
   * NAACL, Human Language Technologies, 2018
-
-* ### [SciA11y: Converting Scientific Papers to Accessible HTML](https://madeleinevanuylen.com/files/SciA11y_Converting_Scientific_Papers_to_Accessible_HTML.pdf)
-  * ASSETS 2021 Posters and Demonstrations, Artifact Award 1st Place
 
 * ### [Apoptosis-related Genes Control Autophagy and Influence DENV-2 Infection in the Mosquito Vector, Aedes Aegypti](https://madeleinevanuylen.com/files/Apoptosis-related_genes_control_autophagy_and_influence_DENV-2_infection_in_the_mosquito_vector_Aedes_aegypti_PMC.pdf)
   * Insect Biochemistry & Molecular Biology, September 2016
