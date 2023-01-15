@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+---
+title: "Paper Title Number 1"
+collection: publications
+permalink:
+excerpt: ''
+date: 2021-11-23
+venue: 'EMNLP 2021'
+paperurl: 'http://madeleinevanzuylen.com/files/MS2_A_Dataset_for_Multi-Document_Summarization_of_Medical_Studies.pdf'
+---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://madeleinevanzuylen.com/files/MS2_A_Dataset_for_Multi-Document_Summarization_of_Medical_Studies.pdf))
