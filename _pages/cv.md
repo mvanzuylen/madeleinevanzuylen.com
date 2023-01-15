@@ -21,13 +21,11 @@ Work experience
   * Amazon, AWS, File Storage Gateway
   * Provided insight into unresponsive gateways by designing metrics to track gateway availability 
   * Automated core dumps when a gateway became unavailable to decide when an automatic restart of a gateway process is needed
-  * Supervisor: David Asher
 
 * Summer 2022: SDE Intern
   * Redfin, Listing Ingestion Platform 
   * Created Samza app to store house listing records in AWS S3 with versioning to provide insight into historical changes in the raw records for 665,000 listings, 62,000 agents, and 14,000 Brokers
   * Added 13,500 listings from West Alabama Multiple Listing Service onto redfin.com representing an .8% increase in Redfin’s total coverage
-  * Supervisor: Ryan Jefferies
 
 * August 2017 - May 2022: Data Science Analyst
   * Allen Institute for AI, Semantic Scholar
