@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV PDF](http://madeleinevanzuylen.com/files/Nov_2022_Madeleine_van_Zuylen_CV.pdf)
+[CV PDF](http://madeleinevanzuylen.com/files/March_2023_Madeleine_van_Zuylen_CV.pdf)
 
 Education
 ======
@@ -41,10 +41,12 @@ Technical Skills
 * Python
 * SQL
 * Git
+* S3
+* EC2
+* Lambda
 * Terraform
 * Atlantis
 * R
-* S3
 * Samza
 * Grafana
 * Mockito
