@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* ### [The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces](http://madeleinevanzuylen.com/files/The_Semantic_Reader_Project:_Augmenting_Scholarly_Documents_through_AI-Powered_Interactive_Reading_Interfaces.pdf)
+  * ArXiv preprint, 2023
+
+* ### [The semantic scholar open data platform](http://madeleinevanzuylen.com/files/The_semantic_scholar_open_data_platform.pdf)
+  * ArXiv preprint, 2023
 
 * ### [MSˆ2: A Dataset for Multi-Document Summarization of Medical Studies](http://madeleinevanzuylen.com/files/MS2_A_Dataset_for_Multi-Document_Summarization_of_Medical_Studies.pdf)
   * EMNLP, 2021
