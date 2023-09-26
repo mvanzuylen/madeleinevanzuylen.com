@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Madeleine van Zuylen"
 title_separator          : "-"
 name                     : &name "Madeleine van Zuylen"
-description              : &description "Northeastern University MSCS University of Notre Dame BS Applied Math + Biochem"
+description              : &description "Northeastern University MSCS University of Notre Dame BS"
 url                      : https://madeleinevanzuylen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mvanzuylen/madeleinevanzuylen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Madeleine van Zuylen"
   avatar           : "madeleine.png"
-  bio              : "Northeastern University MSCS University of Notre Dame BS Applied Math + Biochem"
+  bio              : "Northeastern University MSCS University of Notre Dame BS"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
