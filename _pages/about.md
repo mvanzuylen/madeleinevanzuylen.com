@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Mady, and I'm a Master's student in CS at Northeastern University based out of Seattle, WA. I previously worked at the [Allen Institute for AI (AI2)](https://allenai.org/) as a Data Science Analyst on the [Semantic Scholar](https://www.semanticscholar.org/about) team. 
+Welcome! My name is Mady, and I recently graduated from Northeastern University with an MS in CS. I'm based out of Seattle, WA and previously worked at AWS and Redfin as a SDE intern, and for five years at the [Allen Institute for AI (AI2)](https://allenai.org/) as a Data Science Analyst on the [Semantic Scholar](https://www.semanticscholar.org/about) team. 
 
-As an undergrad, I studied Biochemistry and Computational Math & Stats at Notre Dame and interned in the [Fields lab](http://www.fieldslab.org/) at UW, and the [Brenner Lab](https://brennergroup.seas.harvard.edu/) and [Weitz Lab](https://weitzlab.seas.harvard.edu/) at Harvard University.
+My interests include ML, backend development, drug discovery, personalized medicine, carbon capture, and climate modeling.
+
+As an undergrad, I studied Biochemistry and Computational Mathematics & Statistics at the University of Notre Dame and interned in the [Fields lab](http://www.fieldslab.org/) at UW, and the [Brenner Lab](https://brennergroup.seas.harvard.edu/) and [Weitz Lab](https://weitzlab.seas.harvard.edu/) at Harvard University.
 
 I enjoy hiking, backpacking, skiing, and reading in my spare time.
