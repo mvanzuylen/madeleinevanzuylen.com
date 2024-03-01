@@ -23,7 +23,7 @@ Work experience
   * Provided insight into unresponsive gateways by designing metrics to track gateway availability
 
 * Redfin, Listing Ingestion Platform 
-  * Summer 2022: SDE Inter
+  * Summer 2022: SDE Intern
   * Built Samza app to store house listing records in AWS S3 with versioning to provide insight into historical changes in the raw records for 665,000 listings, 62,000 agents, and 14,000 Broke
   * Added 13,500 listings from West Alabama Multiple Listing Service onto redfin.com representing an .8% increase in Redfin’s total coverage
 
