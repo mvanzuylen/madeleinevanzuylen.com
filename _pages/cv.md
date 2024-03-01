@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV PDF](http://madeleinevanzuylen.com/files/MadeleinevanZuylen_CV.pdf)
+[CV PDF](http://madeleinevanzuylen.com/files/MADELEINEVANZUYLEN_RESUME.pdf)
 
 Education
 ======
